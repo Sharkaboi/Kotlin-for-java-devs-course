@@ -2,7 +2,7 @@
 Rep for managing assignments for Kotlin for Java developers course from JetBrains.
 
 ### Week 1
- Introduction only.
+* Introduction only.
 ### Week 2
 * [MasterMind Game](https://github.com/Sharkaboi/Kotlin-for-java-devs-course/tree/master/Mastermind)
 ### Week 3
