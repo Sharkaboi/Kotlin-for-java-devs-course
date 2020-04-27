@@ -1,4 +1,4 @@
-## Game
+## Game of 2048
 
 The goal of this assignment is to implement one game: 
 [Game 2048](https://en.wikipedia.org/wiki/2048_(video_game)).
