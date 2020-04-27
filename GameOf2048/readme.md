@@ -10,7 +10,7 @@ You need to reuse your implementation of the `GameBoard` interface from
 the previous task.
 
 After finishing the game you can play it yourself by running `main` function
-in <a href="psi_element://PlayGame2048.kt">ui/PlayGame2048</a>.
+in `ui/PlayGame2048`.
 
 ### Game 2048
 
@@ -31,8 +31,8 @@ The goal is to get 2048.
 one row or column: removes empty cells and merges identical elements.
 To get you familiar with lambdas and generics, this functionality is
 declared as a generic function that accepts as argument, a method to merge two equal elements.  
-Source: <a href="psi_element://Game2048Helper.kt">Game2048Helper.kt</a>; 
-tests: <a href="psi_element://games.game2048.TestGame2048Helper">TestGame2048Helper.kt</a>.
+Source: `Game2048Helper.kt`   
+tests: `TestGame2048Helper.kt`.
  
 * Specify how the new element should be added.
 By the rules of the game 2048, the new cell with the value 2 or 4 
@@ -44,15 +44,15 @@ tests: <a href="psi_element://games.game2048.TestGame2048Initializer">TestGame20
 Implement the utility function `addNewValue` that adds a new value to 
 a random free cell. The `initializer` parameter returns both a value and a cell
 that the new value should be added to.  
-Source: <a href="psi_element://Game2048.kt">Game2048.kt</a>; 
-tests: <a href="psi_element://games.game2048.TestAddingValue">TestAddingValue.kt</a>. 
+Source: `Game2048.kt`   
+tests: `TestAddingValue.kt`. 
 
 * Implement the utility function `moveValuesInRowOrColumn`, which 
 updates the map contents by moving the elements only in one row or column.  
-Source: <a href="psi_element://Game2048.kt">Game2048.kt</a>;
-tests: <a href="psi_element://games.game2048.TestMoveValuesInRowOrColumn">TestMoveValuesInRowOrColumn.kt</a>.
+Source: `Game2048.kt`   
+tests: `TestMoveValuesInRowOrColumn.kt`.
 
 * Implement the remaining function `moveValues`, which moves all the elements
 in a board to a given direction following the rule games.  
-Source: <a href="psi_element://Game2048.kt">Game2048.kt</a>;
-tests:  <a href="psi_element://games.game2048.TestMoveValues">TestMoveValues.kt</a>. 
+Source: `Game2048.kt`   
+tests:  `TestMoveValues.kt`. 
