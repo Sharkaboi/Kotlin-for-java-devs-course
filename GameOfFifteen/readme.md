@@ -1,4 +1,4 @@
-## Game
+## Game of 15
 
 The goal of this assignment is to implement one game: 
 [Game of Fifteen](https://en.wikipedia.org/wiki/15_puzzle).
