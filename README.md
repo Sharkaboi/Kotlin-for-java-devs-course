@@ -11,3 +11,6 @@ Rep for managing assignments for Kotlin for Java developers course from JetBrain
 ### Week 4
 * [Rationals](https://github.com/Sharkaboi/Kotlin-for-java-devs-course/tree/master/Rationals)
 * [Board Game](https://github.com/Sharkaboi/Kotlin-for-java-devs-course/tree/master/Board)
+### Week 5
+* [Game of 2048](https://github.com/Sharkaboi/Kotlin-for-java-devs-course/tree/master/GameOf2048)
+* [Game of 15](https://github.com/Sharkaboi/Kotlin-for-java-devs-course/tree/master/GameOfFifteen)
